@@ -1,0 +1,20 @@
+\contentsline {chapter}{\numberline {1}Introduction to C}{2}{}%
+\contentsline {section}{\numberline {1.1}Overview}{2}{}%
+\contentsline {section}{\numberline {1.2}C Basics}{2}{}%
+\contentsline {section}{\numberline {1.3}Variavles}{2}{}%
+\contentsline {section}{\numberline {1.4}Text Input and Output}{2}{}%
+\contentsline {chapter}{\numberline {2}Essential Programming in C}{3}{}%
+\contentsline {section}{\numberline {2.1}Making Decisions}{3}{}%
+\contentsline {section}{\numberline {2.2}For Loops}{3}{}%
+\contentsline {section}{\numberline {2.3}While Loops}{3}{}%
+\contentsline {chapter}{\numberline {3}Functions and Arrays}{4}{}%
+\contentsline {section}{\numberline {3.1}Functions}{4}{}%
+\contentsline {section}{\numberline {3.2}Variable Scope}{4}{}%
+\contentsline {section}{\numberline {3.3}Arrays}{4}{}%
+\contentsline {section}{\numberline {3.4}Random Numbers}{4}{}%
+\contentsline {chapter}{\numberline {4}Strings and Structures}{5}{}%
+\contentsline {section}{\numberline {4.1}Strings}{5}{}%
+\contentsline {section}{\numberline {4.2}Structures}{5}{}%
+\contentsline {chapter}{\numberline {5}Advanced Topics}{6}{}%
+\contentsline {section}{\numberline {5.1}File Input and Outpud}{6}{}%
+\contentsline {section}{\numberline {5.2}Recursion}{6}{}%

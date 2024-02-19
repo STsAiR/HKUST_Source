@@ -1,0 +1,48 @@
+PWD /Users/stsair/Desktop/Math/Math1012/Exam 
+INPUT /usr/local/texlive/2021/texmf.cnf
+INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/stsair/Desktop/Math/Math1012/Exam /2021-2022 Fall Math 1012 exam.tex
+OUTPUT /Users/stsair/Desktop/Math/Math1012/Exam /2021-2022 Fall Math 1012 exam.log
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Users/stsair/Desktop/Math/Math1012/Exam /2021-2022 Fall Math 1012 exam.aux
+INPUT /Users/stsair/Desktop/Math/Math1012/Exam /2021-2022 Fall Math 1012 exam.aux
+INPUT /Users/stsair/Desktop/Math/Math1012/Exam /2021-2022 Fall Math 1012 exam.aux
+OUTPUT /Users/stsair/Desktop/Math/Math1012/Exam /2021-2022 Fall Math 1012 exam.aux
+OUTPUT /Users/stsair/Desktop/Math/Math1012/Exam /2021-2022 Fall Math 1012 exam.pdf
+INPUT /usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /Users/stsair/Desktop/Math/Math1012/Exam /2021-2022 Fall Math 1012 exam.aux
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
