@@ -1,0 +1,166 @@
+\documentclass[12pt]{report}
+\usepackage{amsfonts, amsmath, amsthm, amstext, amssymb}
+\usepackage{mathtools}
+\usepackage{nccmath}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{blindtext}
+\usepackage{wrapfig}
+
+\marginparwidth 0pt
+\oddsidemargin -1 truecm
+\evensidemargin  0pt
+\marginparsep 0pt
+\topmargin -2.6truecm
+\linespread{1}
+\textheight 24.5truecm
+\textwidth 18.4 truecm
+\newenvironment{remark}{\noindent{\bf Remark }}{\vspace{0mm}}
+\newenvironment{remarks}{\noindent{\bf Remarks }}{\vspace{0mm}}
+\newenvironment{question}{\noindent{\bf Question }}{\vspace{0mm}}
+\newenvironment{questions}{\noindent{\bf Questions }}{\vspace{0mm}}
+\newenvironment{note}{\noindent{\bf Note }}{\vspace{0mm}}
+\newenvironment{summary}{\noindent{\bf Summary }}{\vspace{0mm}}
+\newenvironment{back}{\noindent{\bf Background}}{\vspace{0mm}}
+\newenvironment{conclude}{\noindent{\bf Conclusion}}{\vspace{0mm}}
+\newenvironment{concludes}{\noindent{\bf Conclusions}}{\vspace{0mm}}
+\newenvironment{dill}{\noindent{\bf Description of Dill's model}}{\vspace{0mm}}
+\newenvironment{maths}{\noindent{\bf Mathematics needed}}{\vspace{0mm}}
+\newenvironment{object}{\noindent{\bf Objective}}{\vspace{0mm}}
+\newenvironment{notes}{\noindent{\bf Notes }}{\vspace{0mm}}
+\newenvironment{theorem}{\noindent{\bf Theorem }}{\vspace{0mm}}
+\newenvironment{example}{\noindent{\bf Example }}{\vspace{0mm}}
+\newenvironment{examples}{\noindent{\bf Examples }}{\vspace{0mm}}
+\newenvironment{lemma}{\noindent{\bf Lemma }}{\vspace{0mm}}
+\newenvironment{solution}{\noindent{\it Solution}}{\vspace{2mm}}
+\newcommand{\QED}{\fbox{}}
+
+\graphicspath{{converted_graphics/}}
+\begin{document}
+\baselineskip 18 pt
+\begin{center}
+{\bf \LARGE Chapter 3 Notes}
+\end{center}
+\vspace{0.3cm}
+
+
+\section*{3.1 Natural number}
+Definition 3.1.1. The natural number is a set $\mathbb{N}$ satisfying the following properties:
+\begin{enumerate}
+    \item There is a special element $1 \in \mathbb{N}$.
+    \item For any $n \in \mathbb{N}$, there is a unique successor $n' \in \mathbb{N}$.
+    \item For any $n \in \mathbb{N}$, we have $n' \neq 1$.
+    \item If $m' = n'$, then $m = n$.
+    \item If a subset $S \subset \mathbb{N}$ contains 1 and has the property that $n \in S \implies n' \in S$, then $S = \mathbb{N}$.
+\end{enumerate}
+
+Proposition 3.1.2. Any natural number other than 1 is a successor.
+
+Definition 3.1.3. The addition $m+n$ of two natural numbers is the operation characterized by 
+\begin{enumerate}
+    \item $m + 1 = m'$
+    \item $m+n' = (m+n)'$
+\end{enumerate}
+
+Proposition 3.1.4. The addition of natural numbers has the following properties:
+\begin{enumerate}
+    \item Cancelation: $m + k = n + k \implies m = n$.
+    \item Associativity: $m + (n + k) = (m + n )+ k$.
+    \item Commutativity: $m+n = n+ m$.
+\end{enumerate}
+
+\section*{3.2 Integer}
+$$(m,n)\sim (k,l)\text{, if }m+l = k+n$$
+Definition 3.2.1. $$[m, n] + [k,l] = [m+k, n+l]$$
+
+
+Proposition 3.2.2. The addition of integers has the following properties:
+\begin{enumerate}
+    \item Associativity: $a + (b+c) = (a+b) + c$.
+    \item Commutativity: $a+b = b+a$.
+    \item Zero: There is a unique integer 0 satisfying $a+0 = a = 0+ a$
+    \item Negative: For any integer $a$, there is a unique integer $-a$ satisfying $a + (-a) = 0 = (-a) + a$.
+\end{enumerate}
+
+We define subtraction of integers by using the negative$$a-b = a+(-b)$$
+
+\section*{3.4 Multiplication}
+Definition 3.4.1 The multiplication $mn$ of two natural numbers is the operation characterized by 
+\begin{enumerate}
+    \item $m1 = m$.
+    \item $mn' = mn + m$.
+\end{enumerate}
+
+Proposition 3.4.2 The multiplication of natural numbers has the following properties:
+\begin{enumerate}
+    \item Distributivity: $(m+n)k = mk + nk$
+    \item Associativity: $m(nk) = (mn)k$
+    \item Commutativity: $mn = nm$
+\end{enumerate}
+
+If we expect $(m-n)(k-l) = (mk+nl) - (mk+nk)$, we may define $$[m,n][k,l] = [mk+nl ,mk+nk].$$
+
+Proposition 3.4.3. The multiplication of integers has the following numbers.
+\begin{enumerate}
+    \item The multiplication is consistent with the multiplication of natural numbers.
+    \item Distributivity: $(a+b)c = ac+bc$ and $a(b+c) = ab+ac$.
+    \item Associativity: $a(bc) = (ab)c$.
+    \item Commutativity: $ab = ba$.
+    \item One: $a1 = 1 = 1a$.
+    \item Zero: $ab = 0 \Longleftrightarrow a = 0 \text{ or } b=0$.
+    \item Negative: $(-a)b = -ab = a(-b)$.
+    \item Order: If $a>0$, then $b > c \Longleftrightarrow ab>ac$.
+\end{enumerate}
+
+
+
+\section*{3.5 Rational Number}
+Definition 3.5.1. The rational numbers is the set $\mathbb{Q}$ of the equivalence classes of pairs $(a,b)$ of integers $a,b \in \mathbb{Z}, b \neq 0$, under the equivalence relation $$(a,b) \sim (c,d) \Longleftrightarrow ad = cd$$.
+
+Proposition 3.5.2. The addition and multiplication of rational numbers have the following properties:
+\begin{enumerate}
+    \item The operations are consistent with the operations of integers.
+    \item Associativity: $r + (s+t) = (r+s)+t, r(st) = (rs)t$.
+    \item Commutativity: $r+s = s+r, rs=sr$.
+    \item Distributivity: $(r+s)t = rt+st, r(s+t)=rs+rt$.
+    \item Zero: The integer 0 is the unique rational number satisfying $r+0 = r = 0+r$.
+    \item Negative: For any rational number $r$, there is a unique rational number $-r$ satisfying $r+(-r) = 0 =(-r)+r$.
+    \item One: The integer 1 is the unique rational number satisfying $r1 = r = 1r$.
+    \item Reciprocal: For any rational number $r\neq 0$, there is a unique rational number $r^{-1}$ satisfying $rr^{-1} = 1 = r^{-1}r$.
+\end{enumerate}
+
+Proposition 3.5.3. The order of rational numbers has the following properties:
+\begin{enumerate}
+    \item For any rational numbers $r$ and $s$, one of the following mutually exclusive cases happens: $$r = s, r>s, r<s.$$
+    \item $r>s \text{ and }s>t \Longrightarrow r>t$.
+    \item $r>s \Longrightarrow r+t>s+t$.
+    \item $r>s \Longrightarrow -r<-s$.
+    \item If $r>0$, then $s>t \Longleftrightarrow rs > rt$.
+    \item If $r,s>0$, then $r>s \Longleftrightarrow r^{-1}<s^{-1}$.
+    \item For any $r>s$, there is $t$ satisfying $r>t>s$.
+    \item For any $r>0$, there is a natural number $n$ satisfying $n > r > \frac{1}{n}$.
+\end{enumerate}
+
+We also define the absolute value of a rational number 		
+
+$$|r|=\left\{\begin{matrix}
+r, &\text{if }r \geq 0  \\
+-r, &\text{if }r < 0  \\
+\end{matrix}\right. .$$
+
+The Absolute value has the following properties.
+$$|r+s|\leq|r|+|s|, |rs| = |r||s|, |r|<s \Longleftrightarrow -s < r < s .$$
+
+
+\section*{3.6 Real Number}
+
+Definition 3.6.1. A real number is a nonempty subset $X\subset \mathbb{Q}$ of rational numbers satisfying the following:
+\begin{enumerate}
+    \item There is $l \in \mathbb{Q}$, such all $r \in X$ satisfy $r>l$.
+    \item If $s>r \in X$, then $s \in X$.
+    \item If $r\in X$, then there is $s\in X$ such that $r>s$.
+\end{enumerate}
+
+
+\end{document}
+

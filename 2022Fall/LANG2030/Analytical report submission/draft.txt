@@ -1,0 +1,175 @@
+Ethical Issue 1 
+
+Manufacturer the program(MCAS) was not well-developed.
+
+Ethical Rule 1: The plane implemented a system that is not well-developed and become one of the causes of the crash.
+
+Code 1:
+
+4.1
+
+3.4 – The engineer should provide professional advice on the program as it is not well-developed.  To protect the public, the crew, and the reputation of Boeing, such a system should be abolished by Boeing to prevent another tragedy.
+
+
+
+Alternatives for ethical issue 1: 
+
+-       Manufacturers should seek opinions and suggestions from other manufacturers, especially on the new model, to achieve the best 
+
+-       The system should have been reviewed and improved after the accident that happened five months ago in Indonesia, which was also caused by a flaw in the flight control system.
+It implies that the system is not well-developed, and it can't prevent accidents.
+
+-       If the same system had not been used again, the second crash would have been prevented.
+
+ 
+
+ 
+
+Ethical Issue 2 
+
+No alternative system prepared with the newly developed system MCAS.
+
+Ethical Rule 2: The awareness and safety precaution done by the aerospace engineers was not enough to prevent any potential dangers that may happen.
+
+Code 2: 
+
+4.1 – As an engineer, the one should be always protected the safety, health and welfare of the public. All the steps should take public health into the first place, especially in aerospace engineering, the safety of lives is the most important thing to keep and pay attention and efforts to.
+
+Precisely:
+
+c) consider and take into account the consequences of proposal upon public health. Which means we should predict what accident may happen that could cost tragedy potentially, and prevent it. In this case, the plane used the newest developed MCAS stabilize system, that safety was not actually being proved by millions of actual flights. Therefore, as to reduce the risk of faulty, another plane stabilizing system should be implied for backup once the MCAS is faulty.
+
+ 
+
+Alternatives for ethical issue 2: 
+
+-       Use the traditional plane stabilizing system, only apply the new system if the new system has finished a decent amount of actual trials to prove the program will not or is not likely to be faulty.
+
+-       If they had applied backups and trained the pilots to switch to the backup system once the main one is faulty, the plane would not have lost control that easily.
+
+-       Train the pilots such that the pilots can control the plane manually even without a stable system
+
+ 
+
+Ethical Issue 3
+
+Lack safety drilling and experience of pilots
+
+Ethical Rule 3: Pilots should have responsibility to the profession
+
+Code 3: 
+
+1.4 — Ensure adequate development of his professional competence 
+
+-       Trainings for the flight simulator for the 737 Max 8 isn’t provided to the pilots 
+
+-       Pilots in Ethiopia and Indonesia has far less experience than in US 
+
+ 
+
+ 
+
+1.5  — Accept responsibility for his actions and ensure that person to whom he delegates authority are sufficiently competent to carry out the associated responsibility
+
+-       Flight simulator for the 737 Max 8 has been installed but accusation was denied by the airlines as the pilots has obtained necessary license and qualifications 
+
+ 
+
+Alternatives for ethical issue 3: 
+
+-        If more regular training and examinations had been implemented for pilots, they would have had more knowledge and experience in recognizing the problem effectively and coming up with the best solution
+
+for instance, regular exams should be conducted to ensure they acquire adequate knowledge regarding different types of planes 
+
+-       If more training, especially on new model aircraft, had been done, pilots would have been more familiarized with a new model. 
+
+Pilots should have practiced on the flight simulator for the 737 Max 8, to be familiarized  with the control system of the plane 
+
+** more frequent and detailed training should have been provided especially for the new model
+
+
+
+1. https://www.faa.gov/air_traffic/by_the_numbers
+2. https://www.theverge.com/2019/3/22/18275736/boeing-737-max-plane-crashes-grounded-problems-info-details-explained-reasons#OZBeZZ
+3. https://www.seattletimes.com/seattle-news/times-watchdog/the-inside-story-of-mcas-how-boeings-737-max-system-gained-power-and-lost-safeguards/
+4. https://reports.aviation-safety.net/2019/20190310-0_B38M_ET-AVJ_Interim.pdf
+5. https://www.hkie.org.hk/upload/download/19/file/59c0e423c574d.pdf
+
+6. https://www.washingtonpost.com/local/trafficandcommuting/changes-to-flawed-boeing-737-max-were-kept-from-pilots-defazio-says/2019/06/19/553522f0-92bc-11e9-aadb-74e6b2b46f6a_story.html
+7. http://www.ecaa.gov.et/Home/wp-content/uploads/2019/07/Preliminary-Report-B737-800MAX-ET-AVJ.pdf
+8. https://atpflightschool.com/become-a-pilot/airline-career/how-long-to-become-a-pilot.html
+
+briefly tell the audience what you are going to say.
+say it
+briefly tell them what you have said
+
+
+
+
+introduciton
+
+As natural resources continue to dwindle, the need for sustainable alternative energy becomes a greater issue. Thus, companies have been quick to invest in the extraction of natural gas through hydraulic fracking. However, in the process of drilling for natural gas, methane—a greenhouse gas—can escape and leak into the atmosphere, causing global warming. 
+
+This is illustrated in the case of high methane emissions in southwestern Pennsylvania in 2014. This report will investigate the ethical implications that follow from fracking, and cover contamination reports and inappropriate treatment of fracking fluids.
+
+As more than 45000 daily flight handle by the FAA[1]， aviation safety issues becomes a more important. Thus, every plane accient will be investigated deeply in order to prevent the same tragedy again. However, not all of the accidents are preventable, and hence our job is to analyse the case and minise the number of catastrophe. This is illustrated in the exceptional tragedy happened in 2019, a plane crashed near the town of Bishoftu, Ethiopia, causing 157 of death.[2] This report will investigate the causes of the accident , which are the Automation system in the plane, lacking of backup plan and training. Accompany by what ethical codes did the accident violate and lead to the crashed. 
+
+In conclusion, this report has analyzed the causes of the Toyota recall and investigated the ethical implications. It was found that Toyota didn’t have a good design for the acceleration and braking systems because of cost consideration, and this caused the pedal to become stuck. Toyota also tried to hide their fault and responded to public inquiries slowly to escape from their responsibility. It was only right that they were fined in the end. I hope that this case will give a lesson to the vehicle manufacturing industry.
+
+
+In conslusion, 
+
+
+1. Tenses
+
+2. Different phrases to talk about cause and effect relationship
+
+3. Making concessions
+
+4. Using the right conditionals to give alternatives
+
+5. Writing concisely
+
+6. Topic sentence is a must in a paragraph 
+
+1. Immediate causes (usually technical - what happened at the moment of the accident)
+
+The system breakdown is one of the immediate causes. After analyzing the black box, the committee found out that the system of the plane is the immediate cause of the accident. According to Boeing, there is a function named MCAS and the erroneous activation of the function will increase the pilot's workload sharply. Unfortunately, it leads to recurring failures and the plane crash finally
+
+ 
+
+2.     Root causes (preventable design flaws/human errors/unethical decisions)
+
+-       One of the root causes is considered to be the error of the manufacture of the plane. Boeing 737 MAX, manufactured by Boeing Commercial Airplanes(BCA) a division of the company Boeing, which adapts a design of the new stabilizing program by Boeing called Maneuvering Characteristics Augmentation System (MCAS). The program is not well developed such that an error occurred during the real flight.
+
+-       One more root cause is that there are infficient preventive measures against the new model MCAS as the only plane stabilising system, without an alternative system to maintain the stability of the plane. The pilot closed the failed MCAS system, but unable to maintain the plane afterwards without an stabilising system.
+
+ 
+
+Maintenance: 
+
+·      There is also the same accident that happened 5 months before the accident, which the same model of airplane crashed in Indonesia, killing 189 people. 
+
+·      However, Boeing didn’t make a full investigation and maintenance on the accident and still allow the same model take off.
+
+ 
+
+3.      (Other contributing factors)
+
+Another Contributing factors: Lack of safety drilling  
+ 
+·      Pilots mistakes or errors 
+1)    Pilots didn’t practiced on the flight simulator for the 737 Max 8
+—    Simulator has been installed 2 months before the crash, but accusations has been denied by the airlines as the pilots has obtained necessary license and qualitfications. 
+2)    Pilots in Ethiopia and Indonesia has far less experience than in US
+ 
+·      However, pilots shouldn’t take the full responsibility
+1)    Emergency instructions are taken 
+—    The pilots (of the Ethiopian Airlines 737 Max that crashed last monthLinks to an external site. killing 157 people) correctly followed Boeing’s emergency instructions but were still unable to stop the plane’s nose repeatedly pointing down ( investigators said )
+—    In the final seconds before the crash, pilots tried desperately to right the plane by switching its anti-stall software on and off but to no avail. The jet hit an airspeed of 500 knots (575mph), well above its operational limits, before cockpit data recordings stopped.
+—    The Ethiopian government said data from the plane’s recorders showed “repetitive uncommanded aircraft nose-down conditions” and said Boeing should review its aircraft control system.
+— The country’s transport minister, Dagmawit Moges, did not cite the aircraft’s controversial anti-stall systemLinks to an external site. by name, but said: “The crew performed all the procedures repeatedly provided by the manufacturer but was not able to control the aircraft.”
+
+
+
+To conclude, many multimodalities including fly-in images, background music and intonation are used throughout our video presentation. These tools assisted us in enhancing both the quality and the meaning of the video by making it more stimulating and intelligible. Multimodal communication is fantastic for conveying information.

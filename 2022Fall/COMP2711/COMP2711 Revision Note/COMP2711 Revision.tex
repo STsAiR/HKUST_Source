@@ -1,0 +1,102 @@
+\documentclass[11pt]{article}
+\marginparwidth0pt
+\oddsidemargin -1.4 truecm
+\evensidemargin0pt
+\marginparsep0pt
+\topmargin -2.5truecm
+\textheight 26.3truecm
+\textwidth 18.9 truecm
+\linespread{1.3}
+\usepackage{amsthm,amssymb,amsfonts,amsmath,amstext,xcolor, stix}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{proposition}[theorem]{Proposition}
+\newenvironment{remark}{\noindent{\bf Remark}}{\vspace{3mm}}
+\newenvironment{remarks}{\noindent{\bf Remarks }}{\vspace{0mm}}
+\newenvironment{notes}{\noindent{\bf Notes}}{\vspace{0mm}}
+\newenvironment{note}{\noindent{\bf Note}}{\vspace{0mm}}
+\newenvironment{solution}{\noindent{\it Solution\/}}{\vspace{2mm}}
+\newenvironment{question}{\noindent{\bf Question}}{\vspace{0mm}}
+\newenvironment{questions}{\noindent{\bf Questions}}{\vspace{0mm}}
+\newenvironment{example}{\noindent{\bf Example }}{\vspace{0mm}}
+\newenvironment{examples}{\noindent{\bf Examples }}{\vspace{0mm}}
+\newcommand{\ds}{\displaystyle}
+\newcommand{\bs}{\boldsymbol}
+
+\begin{document}
+
+\begin{center}
+\vspace{0.6cm}
+{\Large \bf COMP2711 Revision}
+\vspace{0.3cm}
+\end{center}
+
+\section{Logic}
+\begin{enumerate}
+    \item Prove/Disprove quantifier statement(Giving Counter example)
+    \item Laws of logic
+\end{enumerate}
+
+
+\section{Counting and Probability}
+\begin{enumerate}
+    \item Inclusion and Exclusion
+    \item Combinatorial Proof
+    \item Dearrangement, start with example $\implies$ Generalize
+\end{enumerate}
+
+
+\section{Number Theory}
+\begin{enumerate}
+    \item Modular Equations
+    \item Chinese Remained theorem
+\end{enumerate}
+
+
+\section{RSA}
+\begin{enumerate}
+    \item Set up RSA
+    \item Extended GCD
+    \item Repeated string(?)
+\end{enumerate}
+
+
+\section{Mathematical induction}
+\begin{enumerate}
+    \item Not math equation
+    \item real world problem
+\end{enumerate}
+
+
+\section{Algorithm}
+\begin{enumerate}
+    \item Finding $O$, $\Theta$, $\Omega$
+    \item Worse case analysis
+    \item Find $O$ first, then find example for $\Omega$
+\end{enumerate}
+
+
+\section{Recurrence}
+\begin{enumerate}
+    \item Iterate the recurrence(closed form solution)
+    \item Use M.I. to prove the recursion
+\end{enumerate}
+
+
+\section{Graph}
+\begin{enumerate}
+    \item Euler graph/circuit: Circuit in a graph $G$ is a simple circuit containing every edge $G$. An Euler path in $G$ is a simple path containing every edge of $G$.
+    \item Complete Graph: exactly one edge between every pair of vertices in $V$. $n\geq 1$
+    \item Cycle: 1 to 2, 2 to 3 ... and $n$ to 1. $n \geq 3$
+    \item Bipartite Graph: can be partitioned into two disjoint subsets $V_1$ and $V_2$ such that $(V_1\cap V_2 = \emptyset) \land (V_1 \cup V_2 = V)$. $n \geq 2$
+    \item Complete Bipartite Graph: There are exactly one edge connecting $u_i$ and $v_j$. There are no edges between two vertices in $V$ and $U$. $n\geq 1, m\geq 1$
+    \item Represent the graph using matrix and list: List: (Vertex/Adjacent Vertices) or (Initial Vertex/Terminal Vertices)
+    \item Isomorphic: If they can become the same graph
+\end{enumerate}
+
+\newpage
+
+
+
+\end{document} 

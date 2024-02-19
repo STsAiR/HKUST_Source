@@ -1,0 +1,120 @@
+\documentclass[11pt]{article}
+\marginparwidth0pt
+\oddsidemargin -1.4 truecm
+\evensidemargin0pt
+\marginparsep0pt
+\topmargin -2.5truecm
+\textheight 26.3truecm
+\textwidth 18.9 truecm
+\linespread{1.3}
+\usepackage{amsthm,amssymb,amsfonts,amsmath,amstext,xcolor, stix}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{proposition}[theorem]{Proposition}
+\newenvironment{remark}{\noindent{\bf Remark}}{\vspace{3mm}}
+\newenvironment{remarks}{\noindent{\bf Remarks }}{\vspace{0mm}}
+\newenvironment{notes}{\noindent{\bf Notes}}{\vspace{0mm}}
+\newenvironment{note}{\noindent{\bf Note}}{\vspace{0mm}}
+\newenvironment{solution}{\noindent{\it Solution\/}}{\vspace{2mm}}
+\newenvironment{question}{\noindent{\bf Question}}{\vspace{0mm}}
+\newenvironment{questions}{\noindent{\bf Questions}}{\vspace{0mm}}
+\newenvironment{example}{\noindent{\bf Example }}{\vspace{0mm}}
+\newenvironment{examples}{\noindent{\bf Examples }}{\vspace{0mm}}
+\newcommand{\ds}{\displaystyle}
+\newcommand{\bs}{\boldsymbol}
+
+\begin{document}
+
+\begin{center}
+\vspace{0.6cm}
+{\Large \bf MATH2001 Exam}
+\vspace{0.3cm}
+\end{center}
+\begin{enumerate}
+\item Solve the system of linear equations
+$$(2+i)z_1+(1-3i)z_2 = -1 - i$$
+$$(2-3i)z_1+(1+i)z_2 = 7 - i$$
+    Answer: $z_1 = 1+i$ and $z_2 = 1-i$.
+
+
+\item Show that 34 and 19 are coprime. Then find integer $u$ and $v$ satisfy $34u+10v=1$. Then calculate $\overline{3} \div \overline{19}$ in $\mathbb{Z}_{34}$.\\
+    Answer: We carry out the Euclidean algorithm
+    \begin{align}
+        34 &= 1\times 19 + 15\\
+        19 &= 1\times 15 + 4\\
+        15 &= 3\times 4 + 3\\
+        4 &= 1\times 3 + 1
+    \end{align}
+    This shows gcd(34, 19) = 1. In other words, the two numbers are coprime.\\
+    The calculation also gives
+    \begin{align}
+        1 &= 4-1\times 3 = 4-1\times(15 - 3\times 4) \\
+        &= 4\times(19 - 1\times 15) - 1\times 15 = 4\times 19 -5\times (34 - 1\times 19) \\
+        &= -5\times 34 +9\times 19.
+    \end{align}
+    This implies $$\overline{1} = \overline{9}\times\overline{19}\text{ in }\mathbb{Z}_{34}.$$
+    Then in $\mathbb{Z}_{34}$, we have $$\overline{3} \div \overline{19} = \overline{3} \times \overline{9} = \overline{27}.$$
+
+
+\item People have preference for colors. We know the following
+\begin{enumerate}
+    \item 16 people like red.
+    \item 28 people like red or blue.
+    \item 8 people like red, but hate blue.
+    \item 3 people like red and blue and green.
+    \item 6 people like red and green.
+    \item 7 people like green, but hate red and blue.
+\end{enumerate}
+Find the following numbers
+\begin{enumerate}
+    \item How many people are there?\\
+    Answer: $28 + 7 = 25$.
+    \item How many people like blue?\\
+    Answer: $28 - 8 = 20$.
+    \item How many people like red and blue?\\
+    Answer: $16 + 20 - 28 = 8$.
+    \item How many people like red or green, but hate blue?\\
+    Answer: $8 + 7 = 15$.
+    \item How many people like red and green, but hate blue?\\
+    Answer: $6 - 3 = 3$.
+\end{enumerate}
+
+
+
+\item Identify the size of the sets as finite, or $|\mathbb{N}|$, or $|\mathbb{R}|$, or $|\mathcal{P}(\mathbb{R})|$. Just present your answer at the end of sets. No reason needed.
+\begin{enumerate}
+    \item natural numbers divisible by 300 and 750, but not divisible by 210.\\
+    Answer: $|\mathbb{N}|$.
+    \item natural numbers dividing 300 and 750, but not dividing 210.\\
+    Answer: Finite.
+    \item natural numbers dividing 300 and 750, but not divisible by 210.\\
+    Answer: Finite.
+    \item $(\mathbb{R} - \mathbb{Z})\times \mathbb{Z}$.\\
+    Answer: $|\mathbb{R}|$.
+    \item $\{(r,s)\in \mathbb{Q}\times \mathbb{Z}:r<s\}$.\\
+    Answer: $|\mathbb{N}|$.
+    \item all subsets of $\mathbb{Z}$, consisting of only even numbers.\\
+    Answer: $|\mathbb{R}|$.
+    \item all strictly increasing sequences of integers.\\
+    Answer: $|\mathbb{R}|$.
+    \item all strictly increasing sequences of real numbers.\\
+    Answer: $|\mathcal{P}(\mathbb{R})|$.
+    \item all finite subsets of $\mathbb{Q}$.\\
+    Answer: $|\mathbb{N}|$.
+    \item all finite subsets of $\mathbb{N}$ not containing prime numbers.\\
+    Answer: $|\mathbb{R}|$.
+\end{enumerate}
+
+
+\item Suppose $X$ is countable, and $Y$ is not countable. Prove that $Y-X$ is not countable. How about $X-Y$?\\
+    Answer: We have $Y = (Y \cap  X) \cup (Y - X)$. Since $X$ is countable, by Proposition 5.3.3. the subset $Y \cap X \subset X$ is still countable.\\
+    If we also know $Y-X$ is countable, then $Y$ is a union of two countable sets. By Proposition 5.3.3, we know $Y$ is countable. Since $Y$ is assumed to be uncountable, this proves that $Y-X$ is uncountable.\\
+    Since $X$ is countable, by Proposition 5.3.3, we know the subset $X-Y\subset X$ is still countable.
+
+
+
+
+\end{enumerate}
+
+\end{document} 
