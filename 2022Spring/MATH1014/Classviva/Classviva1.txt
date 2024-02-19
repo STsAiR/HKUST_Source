@@ -1,0 +1,38 @@
+Classviva 1
+Question 1: -7/2*x^-2-4/(1+2/3)*x^(2/3+1)
+Question 2a: -cos(9t)/9+c
+Question 2b: 9sin(t/9)+c
+Question 2c: -cos(9t)/9+ 9sin(t/9)+c
+Question 3: 5t+4/t-15
+Question 4: -cost-sint +7t-3
+Question 5a: 4
+Question 5b: 10
+Question 5c: -3
+Question 5d: 2
+Question 6a: 23
+Question 6b: -3
+Question 6c: -39
+Question 6d: -2.5
+Question 7a: 0
+Question 7b: 0.735758882342885
+Question 8a: 0
+Question 8b: 2
+Question 8c: 5
+Question 8d: 7
+Question 8e: 3
+Question 8f: 0
+Question 8g: 3
+Question 8h: 3
+Question 9a: 8.704462204
+Question 9b: 
+Question 9c: 7.954462204
+Question 9d: 
+Question 10: B
+Question 9d: 
+Question 9d: 
+Question 9d: 
+Question 9d: 
+Question 9d: 
+Question 9d: 
+Question 9d: 
+Question 9d: 
